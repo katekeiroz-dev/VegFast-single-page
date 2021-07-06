@@ -1,6 +1,6 @@
 ### VegFast-single-page
-Single page app - using css with SASS .
-Responsive layout for all devices .
+Single page app - using css with SASS .<br>
+Responsive layout for all devices 
 
 ### Preview 💻
 
